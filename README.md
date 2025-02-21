@@ -22,7 +22,7 @@ To run this script, ensure you have the following installed:
   numpy pandas torch fitz pymupdf sentence_transformers transformers faiss-cpu spacy tqdm streamlit
 
 
-##Customization
+## Customization
 
 - Modify the PDF file path to process different documents.
 - Adjust text chunking size for different levels of granularity.
