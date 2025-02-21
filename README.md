@@ -17,7 +17,7 @@ This Python notebook implements a **Retrieval-Augmented Generation (RAG)** pipel
 
 To run this script, ensure you have the following installed:
 
-- Python 3.x
+- Python >=3.12
 - Required Python libraries:
   numpy pandas torch fitz pymupdf sentence_transformers transformers faiss-cpu spacy tqdm streamlit
 
